@@ -20,9 +20,6 @@ We are Hydronautics team from BMSTU in Moscow, Russia. We make AUVs and ROVs to 
 
 
 <div id="badges">
-  <a href="https://github.com/hydronautics-team">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
   <a href="https://vk.com/hydronautics">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
