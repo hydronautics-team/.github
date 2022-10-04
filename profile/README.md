@@ -11,12 +11,12 @@ We are Hydronautics team from BMSTU in Moscow, Russia. We make AUVs and ROVs to 
 
 
 
-## Our previous achievements:
-* ... place in [SAUVC 2022](https://sauvc.org)
-* 1st place in Astrakhan underwater competition 2021
-* 1st place in ROV Cup of Russia 2021
-* 1st place in ASRTU 2019
-* 4th place in [SAUVC 2019](https://sauvc.org/2019/#teams)
+## Our achievements:
+* 2nd place in [SAUVC 2022](https://sauvc.org/#teams) and Innovative Design and Engineering Award!
+* 1st place in Astrakhan underwater competition 2021!
+* 1st place in ROV Cup of Russia 2021!
+* 1st place in ASRTU 2019!
+* 4th place in [SAUVC 2019](https://sauvc.org/2019/#teams)!
 
 
 <div id="badges">
